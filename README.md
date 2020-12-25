@@ -3,7 +3,7 @@
 ## Installation
 
 1. install homebridge
-2. install my plugin using: sudo npm i -g homebridge-cmd-television
+2. install my plugin using: sudo npm i -g homebridge-cmd-tv
 3. configure accesory (See configuration sample)
 Thats it! Now when you turn the television on or switch the input to another source it will run the command set in the config.
 
