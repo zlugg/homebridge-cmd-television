@@ -1,4 +1,3 @@
-var request = require("request");
 var Service, Characteristic, VolumeCharacteristic;
 const { exec } = require('child_process');
 
